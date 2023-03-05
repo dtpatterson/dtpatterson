@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Patterson
-- 👀 I’m interested in software engineering & Cyber Security
-- 🌱 I’m currently taking Operating Systems, Software Engineering, Programming Languages, Database Systems, and Cloud Computing
-- 💞️ I’m looking to collaborate on school projects and share code with employers
+- 👀 I’m interested in Software Engineering & Cyber Security
+- 🌱 I’m currently taking Operating Systems, Software Engineering, Programming Languages, Database Systems, Cloud Computing, and CYB101 with CodePath
+- 💞️ I’m looking to collaborate on school projects and share code with future employers
 - 📫 dthomaspatterson91@gmail.com
 
 <!---
