@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Daniel Patterson
-- 👀 I’m interested in Software Engineering & Cyber Security
-- 🏝️ Summer 2023: AI, Data Science, Computer Architecture, Python: 100 Days of Code, Paycom Summer Engagement Program
-- 🌱 Spring 2023: Operating Systems, Software Engineering, Programming Languages, Database Systems, Cloud Computing, and CYB101 with CodePath
+- 👀 I’m interested in Software Engineering
+- 🏝️ Summer 2023: AI, Data Science, Computer Architecture
+- 🌱 Fall 2023: User Interfaces, Web Technologies, Cyber Operations
+- 🌟 Events: Udemy - 100 Days of Code, Paycom Summer Engagement Program (2023), CodePath - CYB101
 - 💞️ I’m looking to collaborate on school projects and share code with future employers
 - 📫 dthomaspatterson91@gmail.com
 - 📸 https://dtpatterson.github.io/Resume-Website/
