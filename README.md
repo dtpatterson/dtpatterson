@@ -6,8 +6,8 @@
 - 🌟 Events: Udemy - 100 Days of Code, Paycom Summer Engagement Program (2023), CodePath - CYB101
 - 💞️ I’m looking to collaborate on school projects and share code with future employers
 - 📫 dthomaspatterson91@gmail.com
-- 📸 https://dtpatterson.github.io/Resume-Website/
-- 📲 https://www.linkedin.com/in/daniel-patterson-071991/
+- 📸 Digital Resume - https://dtpatterson.github.io/Resume-Website/
+- 📲 Linkedin - https://www.linkedin.com/in/daniel-patterson-071991/
 
 <!---
 dtpatterson/dtpatterson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
