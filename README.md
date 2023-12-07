@@ -5,7 +5,7 @@
 - 🌱 Fall 2023: User Interfaces, Web Technologies, Cyber Operations
 - 🌟 Events: Udemy - 100 Days of Code, Paycom Summer Engagement Program (2023), CodePath - CYB101
 - 💞️ I’m looking to collaborate on school projects and share code with future employers
-- 📫 dthomaspatterson91@gmail.com
+- 📫 Email - dthomaspatterson91@gmail.com
 - 📸 Digital Resume - https://dtpatterson.github.io/Resume-Website/
 - 📲 Linkedin - https://www.linkedin.com/in/daniel-patterson-071991/
 
