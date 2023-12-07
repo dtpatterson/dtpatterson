@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Daniel Patterson
+- 🏆 Recent Computer Science Graduate
 - 👀 I’m interested in Software Engineering
 - 🏝️ Summer 2023: AI, Data Science, Computer Architecture
 - 🌱 Fall 2023: User Interfaces, Web Technologies, Cyber Operations
